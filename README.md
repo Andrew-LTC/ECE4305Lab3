@@ -3,7 +3,7 @@
 
 ![](images/early_debouncer_statediagram.jpg)
 
--ASM Chart
+- ASM Chart
 
 ![](images/early_debouncer_ASM.jpg)
 
